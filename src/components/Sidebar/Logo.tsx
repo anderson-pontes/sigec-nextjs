@@ -1,6 +1,7 @@
 
 export function Logo() {
   return (
+    <strong className="flex items-center gap-2 text-xl font-bold text-sky-800">
     <svg
       xmlns="http://www.w3.org/2000/svg"
       xmlSpace="preserve"
@@ -3278,6 +3279,8 @@ export function Logo() {
         </g>
       </g>
     </svg>
+    <span>SISCON</span>
+  </strong>
   )
 }
 

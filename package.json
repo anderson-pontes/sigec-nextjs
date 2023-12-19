@@ -1,5 +1,6 @@
 {
-  "name": "sigec",
+  "name": "siscon",
+  "author": "Anderson P. S. Pontes",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,6 +10,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "lucide-react": "^0.298.0",
     "next": "14.0.4",
     "react": "^18",
     "react-dom": "^18"
